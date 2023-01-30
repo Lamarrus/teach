@@ -139,7 +139,7 @@ switch(month)
 						}
 						break;
 					case 6:
-						if(day<=21)
+						if(day<=20)
 						{
 							printf(" Gemini");
 						}
@@ -149,7 +149,7 @@ switch(month)
 						}
 						break;
 					case 7:
-						if(day<=22)
+						if(day<=20)
 						{
 							printf(" Cancer");
 						}
@@ -159,7 +159,7 @@ switch(month)
 						}
 						break;
 					case 8:
-						if(day<=23)
+						if(day<=20)
 						{
 							printf(" Leo");
 						}
@@ -169,7 +169,7 @@ switch(month)
 						}
 						break;
 					case 9:
-						if(day<=23)
+						if(day<=20)
 						{
 							printf(" Virgo");
 						}
@@ -179,7 +179,7 @@ switch(month)
 						}
 						break;
 					case 10:
-						if(day<=23)
+						if(day<=20)
 						{
 							printf(" Libra");
 						}
@@ -189,7 +189,7 @@ switch(month)
 						}
 						break;
 					case 11:
-						if(day<=22)
+						if(day<=20)
 						{
 							printf(" Scorpio");
 						}
